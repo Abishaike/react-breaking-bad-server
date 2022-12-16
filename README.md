@@ -3,7 +3,11 @@ A Breaking Bad SPA Web Application that was created using React.JS; the backend 
 
 Steps to run this project<br>
 <ul>
-   <li><i>Open one terminal on VS Studio Code to run the server, which can be accessed through the server directory through "node .\index.js"</i></li>
+   <li><i>Open one terminal on VS Studio Code to run the server, which can be accessed through the server directory</i></li>
+   <ul>
+        <li>Once you're in the server directory, please type in "npm install"</li>
+        <li>After the execution of "npm install", please type in "node .\index.js"</li>
+   </ul>
     <ul>
       <li>Possible routes</li>
       <ul>
@@ -17,8 +21,9 @@ Steps to run this project<br>
 </ul>
 
 <ul>
-   <li><i>Open another terminal to execute the react app, which can be accessed through the "client" directory</i></li>
+   <li><i>Open another terminal to execute the react app, which can be accessed through the client directory</i></li>
     <ul>
-      <li>Once your in the client directory, please type in "npm start"</li>
+      <li>Once you're in the client directory, please type in "npm install"</li>
+      <li>After the execution of "npm install", please type in "npm start"</li>
       <li>React Route --- localhost:3000</li>
 </ul>
