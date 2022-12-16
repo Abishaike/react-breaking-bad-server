@@ -20,5 +20,5 @@ Steps to run this project<br>
    <li><i>Open another terminal to execute the react app, which can be accessed through the "client" directory</i></li>
     <ul>
       <li>Once your in the client directory, please type in "npm start"</li>
-      <li>Angular Route --- localhost:3000</li>
+      <li>React Route --- localhost:3000</li>
 </ul>
