@@ -1,0 +1,16 @@
+h2 {
+  text-align: center;
+}
+
+.form {
+  margin-left: 10%;
+}
+
+label {
+  width: 100%;
+}
+
+.deleteBox {
+  background-color: rgb(12, 81, 12);
+  color: white;
+}
